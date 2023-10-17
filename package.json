@@ -1,5 +1,5 @@
 {
-  "name": "binary-upload-boom",
+  "name": "picklepickup",
   "version": "1.0.0",
   "description": "100Devs Social Network",
   "main": "server.js",
@@ -30,5 +30,13 @@
   },
   "devDependencies": {
     "tailwindcss": "^3.3.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jon-tam/PicklePickUp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jon-tam/PicklePickUp/issues"
+  },
+  "homepage": "https://github.com/jon-tam/PicklePickUp#readme"
 }
